@@ -28,7 +28,7 @@ const fruits = [
 ];
 
 const result = fruits.reduce( (accumulator, currentValue) => {
-  console.log(currentValue)  
+  // happy coding
 }, []);
 
 console.log(result)
